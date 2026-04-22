@@ -1,16 +1,53 @@
-## Hi there 👋
+## 👋 Hi, I'm Nuel
 
-<!--
-**codewithstickman/codewithstickman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **CodeWithStickman** 🧑‍💻
+I build and break things in public so you can learn faster.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+
+* Build real-world **Web3 projects**
+* Create **developer tutorials** from scratch to deployment
+* Explore SDKs, APIs, and tools by actually using them
+
+---
+
+### 🎥 Learn With Me
+
+I share full builds and dev tutorials on YouTube:
+👉 https://youtube.com/@nuelyoungtech
+
+---
+
+### 🛠️ What You'll Find Here
+
+This GitHub isn’t just code dumps.
+Every repo is tied to a real project or tutorial you can follow.
+
+---
+
+### ⚡ Current Focus
+
+* Web3 development.
+* Building tools developers actually need.
+* Creating beginner → advanced dev series.
+
+---
+
+### 🤝 Let's Connect
+
+* YouTube: https://youtube.com/@nuelyoungtech
+
+---
+
+### 🧠 Philosophy
+
+> Learn by building.
+> Share as you grow.
+> Stay dangerous.
+> Let’s have fun.
+
+---
+
+⭐ If a repo helps you, consider starring it. It helps more than you think.
